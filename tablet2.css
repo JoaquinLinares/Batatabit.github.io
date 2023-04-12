@@ -1,0 +1,22 @@
+.main__bitcoin__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.pago__cuadro{
+    margin: 15px;
+}
+.main__cuadros-container{
+    display: flex;     
+    flex-wrap: wrap;  
+    justify-content: center;   
+    
+}
+.cuadro__time, .cuadro__eyes, .cuadro__money , .cuadro__tilde{
+    width: 320px;
+    margin: 10px;
+    
+}
+.cuadro__money{
+    margin-bottom: 10px;
+}

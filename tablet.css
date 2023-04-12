@@ -1,0 +1,9 @@
+.pago__cuadro-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.pago__cuadro{
+    margin: 5px;
+}
